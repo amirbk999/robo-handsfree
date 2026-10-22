@@ -4,7 +4,7 @@ An Android app that lets you use your phone without touching it. Talk, and Robo 
 calls and messages people, sets alarms and reminders, writes notes, scrolls, taps, types,
 reads the screen aloud, and keeps you company when there is nobody else around.
 
-- **Install file:** [`dist/Robo-1.1-debug.apk`](dist/Robo-1.1-debug.apk) (Android 8.0+)
+- **Download:** [Robo 1.1 release](https://github.com/amirbk999/robo-handsfree/releases/latest) (5.8 MB, Android 8.0+) — or the copy in [`dist/Robo-1.1-debug.apk`](dist/Robo-1.1-debug.apk)
 - **Languages:** understands commands in **44 languages**, including Hindi, Bengali, Tamil, Telugu,
   Marathi, Punjabi, Urdu, Arabic, Persian, Turkish, Russian, Spanish, French, German, Portuguese,
   Italian, Dutch, Polish, Indonesian, Vietnamese, Thai, Filipino, Chinese, Japanese, Korean and more.
@@ -15,7 +15,7 @@ reads the screen aloud, and keeps you company when there is nobody else around.
 
 ## 1. Install
 
-1. Copy `dist/Robo-1.1-debug.apk` to the phone (USB, Drive, or `adb install dist/Robo-1.1-debug.apk`).
+1. Download the APK from the [latest release](https://github.com/amirbk999/robo-handsfree/releases/latest) straight onto the phone, or copy it over by USB / Drive / `adb install Robo-1.1-debug.apk`.
 2. Open the file. Android will ask to allow installs from this source — allow it, install, then open **Robo**.
 3. Open **Voice settings → Language I speak to you** and choose your language (or leave *Automatic*
    to use the phone's own language).
