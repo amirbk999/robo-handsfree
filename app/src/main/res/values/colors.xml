@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#5B4BFF</color>
+    <color name="brand_dark">#2B1E8C</color>
+    <color name="brand_light">#EDEBFF</color>
+    <color name="accent">#00C2A8</color>
+    <color name="background">#0E0B1F</color>
+    <color name="surface">#171334</color>
+    <color name="surface_alt">#221C47</color>
+    <color name="text_primary">#F5F3FF</color>
+    <color name="text_secondary">#B7B0DE</color>
+    <color name="ok">#3DDC97</color>
+    <color name="warn">#FFB84D</color>
+    <color name="bubble_user">#5B4BFF</color>
+    <color name="bubble_robo">#2A2352</color>
+    <color name="white">#FFFFFF</color>
+</resources>

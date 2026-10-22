@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Robo</string>
+    <string name="accessibility_label">Robo hands-free control</string>
+    <string name="accessibility_description">Lets Robo act on your behalf: open apps, tap buttons, type text, scroll and navigate the phone when you ask by voice. Everything happens on your device.</string>
+
+    <string name="header_subtitle">Your hands-free phone friend. Talk, ask, or say what to do.</string>
+
+    <string name="status_off">Paused</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_thinking">Working on it…</string>
+    <string name="status_speaking">Speaking…</string>
+    <string name="status_paused">Paused — tap the mic to wake me</string>
+
+    <string name="hint_start">Tap the mic once, then just talk. No touching after that.</string>
+    <string name="hint_listening">Say “Robo, open WhatsApp” or “Robo, call Aunty”.</string>
+
+    <string name="mic_start">Start listening</string>
+    <string name="mic_stop">Pause</string>
+
+    <string name="section_quick">Try it with one tap</string>
+    <string name="section_chat">Conversation</string>
+    <string name="section_setup">Setup checklist</string>
+    <string name="section_skills">Things Robo learned</string>
+    <string name="section_voice">Voice settings</string>
+    <string name="section_examples">What you can say</string>
+
+    <string name="chat_hint">Type here if you can’t speak right now</string>
+    <string name="send">Send</string>
+
+    <string name="setup_title">Robo needs a few permissions to be hands-free</string>
+    <string name="setup_check">Check again</string>
+    <string name="setup_done">All set — Robo can control the phone.</string>
+    <string name="setup_missing">Some permissions are still missing.</string>
+
+    <string name="voice_language">Language I speak to you</string>
+    <string name="voice_language_hint">Robo understands commands in this language, and speaks replies with a matching voice.</string>
+    <string name="voice_wake">Only respond when I say “Robo”</string>
+    <string name="voice_speak">Speak replies out loud</string>
+    <string name="voice_rate">Speaking speed</string>
+    <string name="voice_name">What should I call you?</string>
+
+    <string name="box_title">Bubble</string>
+</resources>
